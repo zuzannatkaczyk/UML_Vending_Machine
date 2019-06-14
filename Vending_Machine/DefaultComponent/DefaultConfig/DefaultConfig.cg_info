@@ -1,0 +1,60 @@
+I-Logix-RPY-Archive version 8.15.0 * 9835550
+
+- m_fileModifyTime = { IRPYRawContainer 
+	- size = 8;
+	- value = "DefaultComponent\\DefaultConfig\\Display.cpp" 6.14.2019::19:8:58
+	"DefaultComponent\\DefaultConfig\\Display.h" 6.14.2019::19:8:58
+	"DefaultComponent\\DefaultConfig\\Price_list.cpp" 6.14.2019::19:8:59
+	"DefaultComponent\\DefaultConfig\\Price_list.h" 6.14.2019::19:8:59
+	"DefaultComponent\\DefaultConfig\\Vending_Machine.cpp" 6.14.2019::19:10:41
+	"DefaultComponent\\DefaultConfig\\Vending_Machine.h" 6.14.2019::19:8:58
+	"DefaultComponent\\DefaultConfig\\Vending_Machine_ZT.cpp" 6.14.2019::19:8:59
+	"DefaultComponent\\DefaultConfig\\Vending_Machine_ZT.h" 6.14.2019::19:8:59
+	
+}
+- m_saveUnitAndOwnerSaveUnit = { IRPYRawContainer 
+	- size = 2;
+	- value = "GUID 31694ac1-1dc7-45a1-9e6c-08cfcd2caa6b" "GUID 21e43349-7c62-472d-ade6-7f168aef4a41"
+	"GUID 4bc9aff3-51ab-4e45-a661-eacc1ef755f5" "GUID 21e43349-7c62-472d-ade6-7f168aef4a41"
+	
+}
+- size = 5;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = ".\\..\\..\\Vending_Machine_ZT_rpy\\Vending_Machine_ZT.sbsx";
+	- _subsystem = "Vending_Machine_ZT";
+	- _name = "Vending_Machine";
+	- _id = GUID f0c325a5-eb92-4f03-b792-b40505c0cc83;
+}
+- genTime = 6.14.2019::19:10:41;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = ".\\..\\..\\Vending_Machine_ZT_rpy\\Vending_Machine_ZT.sbsx";
+	- _subsystem = "Vending_Machine_ZT";
+	- _name = "Price_list";
+	- _id = GUID fad83d52-fb9b-4b68-ad18-c7315ee01ea6;
+}
+- genTime = 6.14.2019::19:8:59;
+- hElement = { IHandle 
+	- _m2Class = "ISubsystem";
+	- _filename = ".\\..\\..\\Vending_Machine_ZT_rpy\\Vending_Machine_ZT.sbsx";
+	- _name = "Vending_Machine_ZT";
+	- _id = GUID 31694ac1-1dc7-45a1-9e6c-08cfcd2caa6b;
+}
+- genTime = 6.14.2019::19:8:59;
+- hElement = { IHandle 
+	- _m2Class = "ICodeGenConfigInfo";
+	- _filename = ".\\..\\..\\Vending_Machine_ZT_rpy\\DefaultComponent.cmpx";
+	- _name = "DefaultComponent\\DefaultConfig";
+	- _id = GUID ae2c613b-ba82-4acf-b80e-bc2b6ff6c43f;
+}
+- genTime = 6.14.2019::19:10:41;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = ".\\..\\..\\Vending_Machine_ZT_rpy\\Vending_Machine_ZT.sbsx";
+	- _subsystem = "Vending_Machine_ZT";
+	- _name = "Display";
+	- _id = GUID a8823c78-ed41-4830-9476-f239ded587f4;
+}
+- genTime = 6.14.2019::19:8:59;
+
